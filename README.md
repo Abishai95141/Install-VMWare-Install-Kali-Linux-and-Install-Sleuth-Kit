@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name:
-### Reg No:
+### Name: Abishai K C
+### Reg No: 212223240002
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
